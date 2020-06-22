@@ -1,2 +1,3 @@
-# SwiftyHouse
- Simple Swift client for Clickhouse
+# SwiftHouse
+
+A description of this package.
