@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftHouse",
+    name: "swifthouse",
     platforms: [
        .macOS(.v10_15)
     ],
